@@ -1,22 +1,46 @@
-
-.kartuli-absoluturi {
-    font-family: "BPG Nino Mtavruli Bold", sans-serif;
+.header {
+    display: inline-block;
+    margin-right: 50px;
+    vertical-align: middle;
 }
-.kartuli-relatiuri {
-    font-family: "ALK Life", sans-serif;
-    margin-bottom: 30px;
-    text-indent: 50px;
+.navigation {
+    display: inline-block;
+    vertical-align: middle;
 }
-.font1 {
-    font-family: 'Open Sans', sans-serif;
-    text-transform: capitalize;
-    text-indent: 50px;
-    letter-spacing: 3px;
-    line-height: 20px;
+.nav {
+    display: inline-block;
+    margin-right: 22px;
+    color: blue;
 }
-.font2 {
-    font-family: 'Dongle', sans-serif;
-    margin-top: 30px;
-    text-transform: capitalize;
-    text-indent: 50px;
+.active {
+    color: darkorange;
+}
+.container {
+    margin-left: 50px;
+    width: 1000px;
+}
+.date {
+    margin-top: 50px;
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    font-size: 35px;
+    padding: 7px;
+}
+.title {
+    margin-top: 20px;
+    font-size: 22px;
+}
+.banner {
+    width: 300px;
+    margin-top: 20px;
+    display: inline-block;
+    vertical-align: top;
+}
+.text1{
+    width: 600px;
+    display: inline-block;
+    text-indent: 30px;
+    font-size: 18px;
+    vertical-align: top;
 }
